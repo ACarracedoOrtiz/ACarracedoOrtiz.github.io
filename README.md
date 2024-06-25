@@ -3,10 +3,14 @@
 Driven by a passion for technology and data, and equipped with an analytical and business-focused mindset, I thrive on new challenges that enhance my skills and encourage ongoing personal and professional development. My ambition is to make a meaningful contribution to the data department of a forward-thinking organization. I aim to collaborate on innovative projects and absorb knowledge from industry professionals, which will inspire me to continuously improve and expand my expertise.
 
 ### Technical Skills
-#### General skills: Python, SQL, MongoDB, GIT, Excel, VBA
-#### Cloud: Azure, AWS
-#### Machine learning & IA: sci-kit learn, TensorFlow
-#### Data visualization: Tableau, Power BI, Streamlit
+#### General skills: 
+Python, SQL, MongoDB, GIT, Excel, VBA
+#### Cloud: 
+Azure, AWS
+#### Machine learning & IA: 
+sci-kit learn, TensorFlow
+#### Data visualization: 
+Tableau, Power BI, Streamlit
 
 ## Education			       		
 - M.S., Data Science	| universidad de Navarra (_July 2024_)	 			        		
