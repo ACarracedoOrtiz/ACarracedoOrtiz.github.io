@@ -35,15 +35,13 @@ Tableau, Power BI, Streamlit
 ## Projects
 
 ### Data Science Jobs Salaries prediction
-[Publication]()
+[GitHub Project]()
 
 ### Bank product prediction
 [GitHub Project]()
 
 
 ### AIRBNB Berlin housing analysis
-![GitHub Project]()
+[GitHub Project]()
 
-### Data Science Jobs Salaries prediction
-[Publication]()
 
