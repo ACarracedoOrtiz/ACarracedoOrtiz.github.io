@@ -42,6 +42,7 @@ Tableau, Power BI, Streamlit
 
 
 ### AIRBNB Berlin housing analysis
+[View on Tableau Public](https://public.tableau.com/shared/9SGW8MMK7?:display_count=n&:origin=viz_share_link)
+
+### OHLC and indicators on streamlit
 [GitHub Project]()
-
-
