@@ -1,6 +1,6 @@
 # Data Scientist
 
-Driven by a passion for technology and data, and equipped with an analytical and business-focused mindset, I thrive on new challenges that enhance my skills and encourage ongoing personal and professional development. My ambition is to make a meaningful contribution to the data department of a forward-thinking organization. I aim to collaborate on innovative projects and absorb knowledge from industry professionals, which will inspire me to continuously improve and expand my expertise.
+Driven by a passion for data and technology, and equipped with an analytical and business-focused mindset, I thrive on new challenges that enhance my skills and encourage ongoing personal and professional development. My ambition is to make a meaningful contribution to the data department of a forward-thinking organization. I aim to collaborate on innovative projects and absorb knowledge from industry professionals, which will inspire me to continuously improve and expand my expertise.
 
 ### Technical Skills
 #### General skills: 
@@ -34,15 +34,18 @@ Tableau, Power BI, Streamlit
 
 ## Projects
 
-### Data Science Jobs Salaries prediction
-[GitHub Project]()
+### Data Science Jobs Salaries Prediction
+[GitHub Project](https://github.com/ACarracedoOrtiz/Data-Scientist-Jobs-predictions)
 
-### Bank product prediction
-[GitHub Project]()
+### Bank Products Recommender System
+[GitHub Project](https://github.com/ACarracedoOrtiz/Bank-product-recommender-system)
+
+### Airline Customer Satisfaction
+[GitHub Project](https://github.com/ACarracedoOrtiz/Airline-Customers-satisfaction)
 
 
-### AIRBNB Berlin housing analysis
+### AIRBNB Berlin Housing Analysis
 [View on Tableau Public](https://public.tableau.com/shared/9SGW8MMK7?:display_count=n&:origin=viz_share_link)
 
-### OHLC and indicators on streamlit
-[GitHub Project]()
+### OHLC and Indicators with Streamlit
+[GitHub Project](https://github.com/ACarracedoOrtiz/OHLC-and-Indicatords-representation)
