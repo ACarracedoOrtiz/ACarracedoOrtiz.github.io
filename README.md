@@ -39,6 +39,7 @@ Tableau, Power BI, Streamlit
 
 ### Bank Products Recommender System
 [GitHub Project](https://github.com/ACarracedoOrtiz/Bank-product-recommender-system)
+![image]
 
 ### Airline Customer Satisfaction
 [GitHub Project](https://github.com/ACarracedoOrtiz/Airline-Customers-satisfaction)
@@ -49,3 +50,4 @@ Tableau, Power BI, Streamlit
 
 ### OHLC and Indicators with Streamlit
 [GitHub Project](https://github.com/ACarracedoOrtiz/OHLC-and-Indicatords-representation)
+![image](assets/img/OHLC- Streamlit.png)
